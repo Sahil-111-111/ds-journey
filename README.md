@@ -1,0 +1,1 @@
+I'm Sahil and i am a Data Science student with a clear goal to break into the fintech and banking industry. This repository is where i will document everything - from fundamentals to advanced projects as i build the skills required to become industry ready 
