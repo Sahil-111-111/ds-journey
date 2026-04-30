@@ -1,5 +1,5 @@
 # About Me 
-Hi Readers my name is Sahil and i am a second year Data Science student with a strong interest in applying data to solve real world problems.My goal is to build a career in the fintech and banking industry where data driven decisions play a critical role in areas like risk management,fraud detection, and customer analytics.
+Hi Readers my name is Sahil and i am a second year Data Science student studying at Eduvos with a strong interest in applying data to solve real world problems.My goal is to build a career in the fintech and banking industry where data driven decisions play a critical role in areas like risk management,fraud detection, and customer analytics.
 
 
 ## Goals
@@ -14,7 +14,7 @@ I am actively developing a strong, well rounded skill set focused on becoming a 
 - Data cleaning and preprocessing
 
 **Data Analysis**
-- Exploratory Data
+- Exploratory Data Analytics
 - Data visualization
 - identifying trends and patterns in data
 
@@ -34,7 +34,10 @@ I am actively developing a strong, well rounded skill set focused on becoming a 
 - Git & Github
 - Version Control and project organization
 
-I am continously improving these skills through hands on projects, consistent practice, and real eorld problem solving
+I am continously improving these skills through hands on projects, consistent practice, and real world problem solving.
+
+## Repository Structure
+This section will be updated as the project grows. Folder will be added for phase of learning.
 
 ## Progress Tracker
 |Week  |Topic  | Status|
