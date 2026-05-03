@@ -1,3 +1,4 @@
+# Created a dictionary with different customers and printed it with a proper structure
 customer = [
     {"name": "Sahil", "age": 21, "balance": 25000, "account_type": "Savings Account", "is_active": True },
     {"name": "Omar", "age": 20, "balance": 1500, "account_type": "Savings Account", "is_active": True },

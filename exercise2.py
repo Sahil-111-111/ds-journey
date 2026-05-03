@@ -1,5 +1,4 @@
-# Exercise 2: Simulates a bank account by tracking deposits and w
-
+# Exercise 2: Simulates a bank account by tracking deposits and withdrawals, calculating the final balance and total number of withdrawals made.
 initial_amount = 10000
 
 transactions = [2000, -500, 3000, -1500, 4000, -2500, 3500, -1000]
